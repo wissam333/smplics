@@ -1,0 +1,96 @@
+{
+    "our_services": "Our Services",
+    "services_title": "Digital solutions that move your business forward",
+    "services_desc": "We Provide End-to-end Digital Services That Help Businesses Thrive In An Ever-evolving Digital World. Our Solutions Combine Design, Development, And Strategy To Deliver Results That Matter.",
+    "what_we_offer": "What we offer:",
+    "tabs": {
+        "design": "Design",
+        "all_services": "All Services",
+        "development": "Development"
+    },
+    "services": {
+        "ui_ux_design": {
+            "title": "UI/UX Design",
+            "description": "We craft user journeys that are smooth, clear, and built for conversion.",
+            "offers": [
+                "User Research",
+                "Wireframing",
+                "Prototyping",
+                "UI Design"
+            ]
+        },
+        "brand_identity": {
+            "title": "Brand Identity",
+            "description": "A brand that speaks before you do. We create cohesive brand systems that leave a lasting impression.",
+            "offers": [
+                "Logo Design",
+                "Brand Guidelines",
+                "Brand Strategy",
+                "Digital Graphics"
+            ]
+        },
+        "graphic_design": {
+            "title": "Graphic Design",
+            "description": "Visual communication that captures attention and conveys your message effectively.",
+            "offers": [
+                "Print Materials",
+                "Digital Graphics",
+                "Brand Collateral",
+                "Logo Design"
+            ]
+        },
+        "web_development": {
+            "title": "Web Development",
+            "description": "Fast. Scalable. Built with the latest tech. We develop websites that load fast, work everywhere, and grow with your business",
+            "offers": [
+                "Frontend Development",
+                "Backend Development",
+                "API Integration",
+                "Performance Optimization"
+            ]
+        }
+    },
+    "our_work": {
+        "our_work_label": "Our Work",
+        "our_work_title": "Real results. Clean execution",
+        "our_work_desc": "We Craft Digital Products That Solve Real Problems And Drive Growth. From Smart Interfaces To Powerful Platforms — Our Work Speaks For Itself.",
+        "lets_talk": "Let's Talk",
+        "devices_alt": "Digital products showcased on laptops and mobile devices"
+    },
+    "testimonials": {
+        "testimonials_subtitle": "Client Stories",
+        "testimonials_title_1": "Why customers love ",
+        "testimonials_title_2": "working with us",
+        "testimonials_description": "Real feedback from amazing clients who trusted our process",
+        "navigation": {
+            "prev": "Prev",
+            "next": "Next"
+        },
+        "card": {
+            "successfully_completed": "Successfully Completed",
+            "verified_client": "Verified Client"
+        },
+        "clients": [
+            {
+                "text": "Without any doubt I recommend Smplics as one of the best web design and digital marketing agencies. One of the best agencies I've came across so far. Wouldn't be hesitated to introduce their work to someone else.",
+                "author": "Sarah Jenkins",
+                "role": "CEO, TechFlow"
+            },
+            {
+                "text": "The team understood our vision immediately. The execution was flawless, and the final product exceeded our expectations in both performance and aesthetics.",
+                "author": "Michael Ross",
+                "role": "Founder, StartUp Inc"
+            },
+            {
+                "text": "Professional, creative, and incredibly responsive. They didn't just build a website; they built a brand identity that truly resonates with our audience.",
+                "author": "Ahmed Hassan",
+                "role": "Marketing Director"
+            },
+            {
+                "text": "Their attention to detail and commitment to excellence is unmatched. The project was delivered on time and beyond our expectations.",
+                "author": "Jessica Lee",
+                "role": "Product Manager, Innovate Corp"
+            }
+        ]
+    }
+}

@@ -1,0 +1,118 @@
+{
+    "our_services": "Our Services",
+    "services_title": "Digital solutions that move your business forward",
+    "services_desc": "We Provide End-to-end Digital Services That Help Businesses Thrive In An Ever-evolving Digital World. Our Solutions Combine Design, Development, And Strategy To Deliver Results That Matter.",
+    "what_we_offer": "What we offer:",
+    "tabs": {
+        "design": "Design",
+        "all_services": "All Services",
+        "development": "Development"
+    },
+    "services": {
+        "ui_ux_design": {
+            "title": "UI/UX Design",
+            "description": "We craft user journeys that are smooth, clear, and built for conversion.",
+            "offers": [
+                "User Research",
+                "Wireframing",
+                "Prototyping",
+                "UI Design"
+            ]
+        },
+        "brand_identity": {
+            "title": "Brand Identity",
+            "description": "A brand that speaks before you do. We create cohesive brand systems that leave a lasting impression.",
+            "offers": [
+                "Logo Design",
+                "Brand Guidelines",
+                "Brand Strategy",
+                "Digital Graphics"
+            ]
+        },
+        "graphic_design": {
+            "title": "Graphic Design",
+            "description": "Visual communication that captures attention and conveys your message effectively.",
+            "offers": [
+                "Print Materials",
+                "Digital Graphics",
+                "Brand Collateral",
+                "Logo Design"
+            ]
+        },
+        "web_development": {
+            "title": "Web Development",
+            "description": "Fast. Scalable. Built with the latest tech. We develop websites that load fast, work everywhere, and grow with your business",
+            "offers": [
+                "Frontend Development",
+                "Backend Development",
+                "API Integration",
+                "Performance Optimization"
+            ]
+        }
+    },
+    "our_work": {
+        "our_work_label": "Our Work",
+        "our_work_title": "Real results. Clean execution",
+        "our_work_desc": "We Craft Digital Products That Solve Real Problems And Drive Growth. From Smart Interfaces To Powerful Platforms — Our Work Speaks For Itself.",
+        "lets_talk": "Let's Talk",
+        "devices_alt": "Digital products showcased on laptops and mobile devices"
+    },
+    "testimonials_subtitle": "Client Stories",
+    "testimonials_title_1": "Why customers love ",
+    "testimonials_title_2": "working with us",
+    "testimonials_description": "Real feedback from amazing clients who trusted our process",
+    "contact": {
+        "title": "Contact Us",
+        "getInTouch": "Get in touch",
+        "withOurTeam": "with our team",
+        "description": "Have a project in mind? Let's discuss how we can bring your vision to life. We typically respond within 2 hours.",
+        "contactInfo": "Contact Information",
+        "location": "Location",
+        "email": "Email",
+        "phone": "Phone",
+        "officeHours": "Office Hours",
+        "hoursInfo": "Mon - Fri: 9:00 AM - 6:00 PM GST",
+        "followUs": "Follow us",
+        "sendMessage": "Send a message",
+        "completed": "completed",
+        "yourName": "Your Name *",
+        "emailAddress": "Email Address *",
+        "phoneNumber": "Phone Number (Optional)",
+        "preferredTime": "Preferred Meeting Time *",
+        "selectTimeSlot": "Select your preferred time slot",
+        "yourMessage": "Your Message *",
+        "tellUsAbout": "Tell us about your project, timeline, and budget...",
+        "sendMessageBtn": "Send Message",
+        "sending": "Sending...",
+        "messageSent": "Message Sent!",
+        "thankYou": "Thank you for contacting us. We'll respond within 24 hours.",
+        "continue": "Continue"
+    },
+    "contact": {
+        "title": "اتصل بنا",
+        "getInTouch": "تواصل",
+        "withOurTeam": "مع فريقنا",
+        "description": "هل لديك مشروع في ذهنك؟ دعنا نناقش كيف يمكننا تحقيق رؤيتك. نرد عادة خلال ساعتين.",
+        "contactInfo": "معلومات الاتصال",
+        "location": "الموقع",
+        "email": "البريد الإلكتروني",
+        "phone": "الهاتف",
+        "officeHours": "ساعات العمل",
+        "hoursInfo": "الإثنين - الجمعة: 9:00 صباحًا - 6:00 مساءً بتوقيت الخليج",
+        "followUs": "تابعنا",
+        "sendMessage": "إرسال رسالة",
+        "completed": "مكتمل",
+        "yourName": "اسمك *",
+        "emailAddress": "عنوان البريد الإلكتروني *",
+        "phoneNumber": "رقم الهاتف (اختياري)",
+        "preferredTime": "وقت الاجتماع المفضل *",
+        "selectTimeSlot": "اختر الوقت المناسب لك",
+        "yourMessage": "رسالتك *",
+        "tellUsAbout": "أخبرنا عن مشروعك، الجدول الزمني، والميزانية...",
+        "sendMessageBtn": "إرسال الرسالة",
+        "sending": "جاري الإرسال...",
+        "messageSent": "تم إرسال الرسالة!",
+        "thankYou": "شكرًا لتواصلك معنا. سنرد خلال 24 ساعة.",
+        "continue": "متابعة"
+    }
+}
